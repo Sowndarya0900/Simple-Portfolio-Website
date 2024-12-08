@@ -4,7 +4,7 @@ This is a simple portfolio website created using HTML and CSS to showcase my per
 Features:
 Home Page: A brief introduction about Sir Ratan Tata
 About Me Section: A more detailed section about him.
-Projects Section: A display of some of his projects with descriptions..
+Projects Section: A display of some of his projects with descriptions.
 Contact Section: A simple way to get to know about him deeply.
 Responsive Layout: Designed to work seamlessly on both desktop and mobile devices.
 
