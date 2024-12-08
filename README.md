@@ -1,13 +1,11 @@
-# Simple-Portfolio-Website
-This is a simple portfolio website created using HTML and CSS to showcase my personal projects, skills, and background. The website is designed with a clean and minimalistic approach, making it easy for potential employers or clients to explore my work.
+# Simple Portfolio Website
 
-Features:
-Home Page: A brief introduction about Sir Ratan Tata
-About Me Section: A more detailed section about him.
-Projects Section: A display of some of his projects with descriptions.
-Contact Section: A simple way to get to know about him deeply.
-Responsive Layout: Designed to work seamlessly on both desktop and mobile devices.
+This is a **simple portfolio website** created using **HTML** and **CSS** to showcase my personal background and provide a way to get in touch with me. The website features a clean, minimalist design focused on presenting my details effectively.
 
-Technologies Used:
-HTML: For building the structure of the website.
-CSS: For styling the website and making it visually appealing.
+## Features:
+- **Home Page**: An introduction to who I am, my skills, and my professional background.
+- **Contact Page**: A section where visitors can easily get in touch with me through a contact form and links to my social media profiles.
+
+## Technologies Used:
+- **HTML**: For building the structure of the website.
+- **CSS**: For styling the website and making it visually appealing.
